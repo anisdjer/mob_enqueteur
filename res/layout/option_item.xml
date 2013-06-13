@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+    <TextView xmlns:android="http://schemas.android.com/apk/res/android"
+        android:drawableTop="@drawable/ic_launcher"
+        android:id="@+id/option_title"
+        android:layout_width="50dp"
+        android:layout_height="wrap_content"
+        android:text="@string/app_name"
+        android:textIsSelectable="false"/>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="respondent_title">Respondent Info</string>
+    
+    <string name="respondent_name">Name</string>
+    <string name="respondent_lastname">Last Name</string>
+    <string name="respondent_age">Age</string>
+    <string name="respondent_gender">Gender</string>
+    <string-array name="gender">
+        <item >@string/gender_male</item>
+        <item >@string/gender_female</item>
+    </string-array>
+    
+    
+    <string name="respondent_validate">save respondent</string>
+    
+    
+    
+    <string name="gender_male">Male</string>
+    <string name="gender_female">Female</string>
+    
+    <string name="respondent_name_emty_error">name is required</string>
+    <string name="respondent_lastname_emty_error">lastname is required</string>
+    <string name="respondent_age_emty_error">age is required</string>
+</resources>
